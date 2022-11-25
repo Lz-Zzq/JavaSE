@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <trees>
+     <tree path="/io/src/ioDesignMode/Test_.java" title="" extension="java"/>
+     <tree path="/io/src/transformation" title="转换流"/>
+     <tree path="/io/src/inputAnd" title="标准输入输出"/>
+     <tree path="/io/src/printStream" title="打印流"/>
+     <tree path="/networkMultithreading/src/socket/SocketTCP02Client.java" title="字符" extension="java"/>
+     <tree path="/networkMultithreading/src/socket/SocketTCP01Client.java" title="字节" extension="java"/>
+     <tree path="/networkMultithreading/src/socket/TCPFileUplocadServer.java" title="案例" extension="java"/>
+     <tree path="/networkMultithreading/src/socket/TCPFileUploadClient.java" title="案例1 客户端" extension="java"/>
+     <tree path="/networkMultithreading/src/socket/TCPFileUploadServer.java" title="案例1 服务端" extension="java"/>
+ </trees>
